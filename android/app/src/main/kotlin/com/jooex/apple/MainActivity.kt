@@ -1,4 +1,4 @@
-package com.joex.vip.app
+package com.jooex.apple
 
 import io.flutter.embedding.android.FlutterActivity
 
