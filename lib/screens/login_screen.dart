@@ -1832,8 +1832,8 @@ class _AgreementSheet extends StatelessWidget {
     (
       tr('7. التواصل', '7. Contact'),
       tr(
-        '7.1. الدعم على تليجرام: t.me/joe27',
-        '7.1. Support on Telegram: t.me/joe27',
+        '7.1. الدعم على تليجرام: t.me/joex_69',
+        '7.1. Support on Telegram: t.me/joex_69',
       ),
     ),
   ];

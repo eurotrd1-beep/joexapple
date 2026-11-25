@@ -18,7 +18,7 @@ const String kRegLink =
     'https://refpa-65760.com/L?tag=d_4906381m_1599c_JOE27&site=4906381&ad=1599&r=registration';
 
 /// الدعم على تليجرام
-const String kHelpLink = 'https://t.me/joe27';
+const String kHelpLink = 'https://t.me/joex_69';
 
 /// يفتح الرابط في تطبيقه (تليجرام او يوتيوب او المتصفح)، وبغيره اذا تعذر
 Future<void> openUrl(String url) async {
