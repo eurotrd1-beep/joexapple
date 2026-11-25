@@ -1,4 +1,4 @@
-package com.jooex.apple
+package com.jooee.xpro
 
 import io.flutter.embedding.android.FlutterActivity
 

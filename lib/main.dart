@@ -126,7 +126,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'JoeX PRO',
+      title: 'Joex PRO V1',
       debugShowCheckedModeBanner: false,
       theme: _buildTheme(),
       builder: (context, child) {
