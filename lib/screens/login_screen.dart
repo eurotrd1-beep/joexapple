@@ -2788,6 +2788,8 @@ class _MandatorySubscriptionDialogState
                             icon: Icons.play_arrow_rounded,
                             isClicked: _clickedYoutube,
                             active: pending == 0,
+                            defaultButtonText: tr('اشتراك', 'Subscribe'),
+                            completedButtonText: tr('تم الاشتراك', 'Subscribed'),
                             onTap: () => _openChannelUrl(kYoutubeUrl, 'yt'),
                           ),
                           _condition(

@@ -5,10 +5,10 @@ import 'package:url_launcher/url_launcher.dart';
 // رابط التسجيل والرمز هما نفس قيم مشروع gpt لكل المنصات.
 // ═══════════════════════════════════════════════════════════════
 
-const String kYoutubeUrl = 'https://youtube.com/@joexxvc';
+const String kYoutubeUrl = 'https://youtube.com/@sirjoex11';
 const String kTelegramUrl = 'https://t.me/elostora_vip';
 const String kTelegramHandle = '@elostora_vip';
-const String kYoutubeHandle = '@joexxvc';
+const String kYoutubeHandle = '@sirjoex11';
 
 /// رمز الترويج الذي يُنسخ ويُكتب في المنصة
 const String kPromoCode = 'joe27';
